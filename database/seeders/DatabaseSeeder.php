@@ -16,6 +16,6 @@ class DatabaseSeeder extends Seeder
         Etudiant::factory(30)->create();
 
         // Optional: Seed other tables
-        // $this->call(ClassesTableSeeder::class);
+         $this->call(ClassesTableSeeder::class);
     }
 }

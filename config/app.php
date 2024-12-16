@@ -1,7 +1,7 @@
 <?php
 
 return [
-
+    App\Providers\FortifyServiceProvider::class,
     /*
     |--------------------------------------------------------------------------
     | Application Name
