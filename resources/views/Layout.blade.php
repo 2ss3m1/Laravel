@@ -5,10 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Liste des Étudiants</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.css" rel="stylesheet">
+
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 </head>
 
 <body>
+
 <div class="flex flex-col md:flex-row justify-between items-center p-4">
     <div class="w-24 h-24">
         <a href="#">
